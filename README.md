@@ -7,10 +7,10 @@ Motor Vehicle Registration vs. Population and  Growth Rate Comparisons and Corre
 
 
 Collaborative work of:  
-Harold Fangyuan Liu - 1166132  
-Andy Ng -  1170648  
-Desmond Wong - 1166527  
-Elizabeth Wong - 1082634   
+Harold Fangyuan Liu 
+Andy Ng
+Desmond Wong
+Elizabeth Wong  
 
 
 🔴**DO NOT ATTEMPT TO RUN THE CODE WITHOUT DOWNLOADING ALL FILES**🔴  
